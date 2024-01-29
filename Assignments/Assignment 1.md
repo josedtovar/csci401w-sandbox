@@ -1,9 +1,9 @@
-# CSCI 401 - Software Engineering - [Assignment Title]
+# CSCI 401 - Software Engineering - [Product Vision]
 
 ## Summary
 [Short description of the product or assignment topic.]
 
-**Team: [Team Name]**
+**Team: [Team C]**
 
 ## Table of Contents
 
@@ -19,11 +19,12 @@
 
 ## Team
 
-| Name               | Role                  | Notes |
-|--------------------|-----------------------|-------|
-| [Jose Tovar]           | [Role]                |       |
-| [Giovani]           | [Role]                |       |
-| ...                | ...                   | ...   |
+| Name               | Role                       | Notes |
+|--------------------|----------------------------|-------|
+| [Jose Tovar]       | [Developer/Product Owner]  |       |
+| [Giovani Torrico]  | [Developer/Product Owner]  |       |
+| [Aidan Lowther]    | [Developer/Product Owner]  |       |
+| [Emily Cabral]     | [Developer/Product Owner]  |       |
 
 ---
 
