@@ -1,0 +1,33 @@
+## 📝 [Team C Notes]
+### 📅 Meeting Date: [1/25/2024]
+### 🕒 Time: [6-7PM]
+### 📍 Location: [Microsoft Teams]
+
+
+### 📣 Attendees:
+Jose T.
+Aidan L.
+Emily C.
+Giovani T.
+
+### 🎯 Meeting Objectives:
+Introductions
+Github/Trello Sign-ins.
+Project Ideas.
+
+### 🗒️ Notes:
+
+- We spent the hour setting up the Github Repository, Creating a space in Trello, and discussing project ideas. 
+
+- **Aidan:** Wants to have a feature that can track network traffic and an AI that can recognize jpg files.
+
+- **Emily:** Wants to implement a feature with a chat bot.
+
+- **Jose:** Aims to create a request ticketing system and a daycare provider app that connects parents to affordable daycares around their area.
+
+- **Giovani:** Interested in creating a dynamic UI front-end for user experience.
+
+- We concluded the meeting by agreeing:
+  - For the Monday 1/29 class, everyone needs to bring three different feature ideas that they would like to implement in our application.
+  - We will meet on Tuesday and Thursday either via Teams or in person.
+
