@@ -70,17 +70,18 @@ In developing CyberTutor,
 
 Target Audience:
 
-Colleges
-Educators
-Students
+Colleges,
+Educators,
+Students,
 Passionate Learners
 
 Features:
-Question Answering AI language model
-Engaging user interface
-Real-time responses based on tacher input class material
-Teacher feedback of questions asked
-Ai Response Report
+
+Question Answering AI language model,
+Engaging user interface,
+Real-time responses based on tacher input class material,
+Teacher feedback of questions asked,
+Ai Response Report,
 Secure usage
 
 ---
@@ -88,27 +89,28 @@ Secure usage
 
 | **Segment**              | **Description**                                      |
 |--------------------------|------------------------------------------------------|
-| **Problem**              | - Time constraints                                   |
-|                          | - [Problem 2]                                                   |
+| **Problem**              | - Data Privacy for student and teacher information   |
+|                          | - Making sure the class infomation is accurate       |
 |                          | - ...                                                |
-| **Solution**             | - [Solution 1]                                       |
-|                          | - [Solution 2]                                       |
+| **Solution**             | - Focusing on secured data handling & privacy policies|
+|                          | - Developing a system to review output               |
 |                          | - ...                                                |
-| **Unique Value Prop.**   | [What makes the product unique.]                     |
-| **Unfair Advantage**     | [The product's unique capabilities.]                 |
-| **Customer Segments**    | - [Segment 1]                                        |
-|                          | - [Segment 2]                                        |
+| **Unique Value Prop.**   | Tailored education-based AI tutor                    |
+| **Unfair Advantage**     | Adaptable and Personalized AI, along with data analytics|
+| **Customer Segments**    | - College Professors                                 |
+|                          | - University Students                                |
 |                          | - ...                                                |
-| **Key Metrics**          | - [Metric 1]                                         |
-|                          | - [Metric 2]                                         |
+| **Key Metrics**          | - Number of users                                    |
+|                          | - Accuracy of the AI responses                       |
+|                          | - Student Feedback                                   |
 |                          | - ...                                                |
-| **Channels**             | - [Channel 1]                                        |
-|                          | - [Channel 2]                                        |
+| **Channels**             | - Web App                                            |
+|                          | - Email                                              |
 |                          | - ...                                                |
-| **Cost Structure**       | [List down the various costs involved.]              |
-| **Revenue Streams**      | [List down the potential sources of revenue.]        |
+| **Cost Structure**       | Free-ware with paid no-ads                           |
+| **Revenue Streams**      | ads                                                  |
 
 ---
 
 ## Risks
-There are no risks, nothing ever goes wrong
+Compliance and Data Security of class materials, Along with the saturation of education tools in the market.
