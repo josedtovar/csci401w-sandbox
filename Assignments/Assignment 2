@@ -54,7 +54,7 @@
 
 **\<System Administrator\>**
 
-\<The administrators role is to review and ensure the accuracy of the information in the tutorbot's output.>
+\<The administrators role is to review and ensure the accuracy of the information in the tutorbot's output. They require a way to receive reported outputs, and a way to adjust the tutorbot.>
 
 ## Product Scenarios
 
