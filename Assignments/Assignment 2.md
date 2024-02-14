@@ -97,3 +97,6 @@ As a \<user type\>, I want to \<describe the specific task or action\>, so I can
 \<Explain the look and feel of the user interface, and if possible, provide simple wireframes or sketches.>
 Added a UI of what a class would look like and contain
 ![Screen Shot 2024-02-14 at 4 34 45 PM](https://github.com/josedtovar/csci401w-sandbox/assets/117839087/d8d7eddf-e882-4088-ac67-fa489a5016fb)
+
+Home screen from a student perspective 
+![Screen Shot 2024-02-14 at 4 53 03 PM](https://github.com/josedtovar/csci401w-sandbox/assets/117839087/5b806496-b861-4b0e-8664-da46a7e601cb)
