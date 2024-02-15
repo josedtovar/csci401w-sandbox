@@ -11,6 +11,7 @@
   - [Persona 1](#persona-1)
   - [Persona 2](#persona-2)
   - [Persona 3](#persona-3)
+  - [Persona 4](#persona-4)
 - [Product Scenarios](#product-scenarios)
   - [Product Scenario 1](#product-scenario-1)
 - [User Stories](#user-stories)
@@ -56,6 +57,18 @@
 
 \<The administrators role is to review and ensure the accuracy of the information in the tutorbot's output. They require a way to receive reported outputs, and a way to adjust the tutorbot.>
 
+### Persona 4
+
+**\<Security Admins\>**
+
+\<As a security administrator, the primary responsibility is to ensure the safety and integrity of the website's data and user interactions. Implementing security measures to safeguard against unauthorized access, data breaches, and other cyber threats.
+
+One crucial aspect of your role is to facilitate single sign-on (SSO) functionality for students, faculty, and administrators. SSO streamlines the authentication process, allowing users to access multiple applications and services with just one set of login credentials. By implementing SSO, you enhance user experience while also reducing the risk of password-related security vulnerabilities.
+
+This involves defining and enforcing access privileges based on the principle of least privilege, ensuring that each user has only the necessary permissions to perform their respective tasks. By implementing granular access controls, you mitigate the risk of unauthorized data access or manipulation.
+
+Furthermore, monitor and analyze system logs and security events to detect any suspicious activities or anomalies. By proactively identifying and responding to potential security threats, you help safeguard the confidentiality, integrity, and availability of the website's resources and data..>
+
 ## Product Scenarios
 
 ### Product Scenario 1
@@ -81,6 +94,8 @@ As a \<user type\>, I want to \<describe the specific task or action\>, so I can
 **User Story 3**
 
 As a \<user type\>, I want to \<describe the specific task or action\>, so I can \<explain the reason for performing this task\>.
+
+
 
 **Constraints**
 
