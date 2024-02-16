@@ -49,7 +49,7 @@
 
 **\<Jess\>**
 
-\Demographics: Jess, 31, a mother, full-time retail worker, and full-time student. She is currently taking a precalculus course for her math general education requirement. 
+Demographics: Jess, 31, a mother, full-time retail worker, and full-time student. She is currently taking a precalculus course for her math general education requirement. 
 Behaviors: Always busy and can get overwhelmed at times. Jess learns best by talking through an issue and prefers an interactive learning experience. 
 Goals: Jess would like to see a tutor to improve her comprehension of precalculis consistently. She needs tutoring that integrates with her schedule. 
 Challenges: Finding flexible tutoring. She cannot meet with the tutors supplied by the college after every class because she has work. 
@@ -82,7 +82,7 @@ Scenario: \<Describe a usage scenario for your product.>
 
 
 ###Product Senario 2
-\<Jess's precalculus professor has integrated SmartLearn Chat into their course. Now, Jess can access a tutor when she typically works on her coursework at 8:00PM. Jess is able to have an interactive dialog with SmartLearn Chat anytime she runs into an issue. Jess now submits all of her assignments on time and doesn’t find herself worrying about her performance in class being affected by her busy life.>
+Jess's precalculus professor has integrated SmartLearn Chat into their course. Now, Jess can access a tutor when she typically works on her coursework at 8:00PM. Jess is able to have an interactive dialog with SmartLearn Chat anytime she runs into an issue. Jess now submits all of her assignments on time and doesn’t find herself worrying about her performance in class being affected by her busy life.
 
 
 ### Product Scenario 3 (Jose)
