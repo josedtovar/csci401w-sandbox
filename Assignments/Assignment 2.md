@@ -128,6 +128,20 @@ As a \<user type\>, I want to \<describe the specific task or action\>, so I can
 
 As a \<user type\>, I want to \<describe the specific task or action\>, so I can \<explain the reason for performing this task\>.
 
+**User Story 4**
+
+Description:
+
+As a teacher, I want to access real time progress reports for each of my students, including grades, completed assignments, and areas of improvement, so that I can monitor their academic performance and provide targeted support as needed.
+
+Constraints:
+
+The reports should be updated in realtime to reflect the latest student data.
+The system should ensure secure access to student information, adhering to privacy regulations and guidelines.
+
+Comments:
+
+This user story prioritizes the need for teachers to have timely access to student progress data, enabling them to make data-driven decisions and interventions.
 
 
 **Constraints**
