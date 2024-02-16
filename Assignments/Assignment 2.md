@@ -49,12 +49,18 @@
 
 **\<Jess\>**
 
-Demographics: Jess, 31, a mother, full-time retail worker, and full-time student. She is currently taking a precalculus course for her math general education requirement. 
+\<Demographics: Jess, 31, a mother, full-time retail worker, and full-time student. She is currently taking a precalculus course for her math general education requirement. 
+
 Behaviors: Always busy and can get overwhelmed at times. Jess learns best by talking through an issue and prefers an interactive learning experience. 
+
 Goals: Jess would like to see a tutor to improve her comprehension of precalculis consistently. She needs tutoring that integrates with her schedule. 
+
 Challenges: Finding flexible tutoring. She cannot meet with the tutors supplied by the college after every class because she has work. 
+
 Quote: "I am only able to focus on my course work after 8:00PM. When I get stuck on a problem and need to ask the professor a question, I wait until morning to email them. Sometimes I have to skip my tutoring session if I get called into work or my daughter has a doctor’s appointment, etc. I need a tool that ensures I don't fall behind even on days I cannot attend class."
+
 Tech Use: Moderate. Jess has a good desktop at home. 
+>
 
 ### Persona 3
 
