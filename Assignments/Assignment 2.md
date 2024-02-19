@@ -41,9 +41,20 @@
 
 ### Persona 1
 
-**\<Professor\>**
+**\<Professor William\>**
 
-\<A professor who provides around-the-clock supplemental learning support for students using SmartLearnChat. Requires a consistent and customizable AI chatbot with responses based on custom material. The ability to asseses student understanding is also key>
+\<Demographics: William, 43, experienced university professor specializing in cybersecurity
+
+Behaviors: In need of an easy-to-use tool which will provide students with around-the-clock supplemental learning support. Requires a consistent and customizable AI chatbot with responses based on custom material. Ability to view comprehensive analytics on student work and feedback is emphasized 
+
+Goals: Provide 24/7 supplementary material and tutor support, analyze student progress, and modify course material based on provided data. 
+
+Challenges: Finding a scalable platform that allows for custom course material to be implemented and used to provide students with real-time responses to questions. 
+
+Quote: "To enhance my teaching and students' experience I need to provide constant support, opening learning opportunities for all."
+
+Tech Use: Regularly incorporates educational technology into teaching methods, familiar with LMS platforms, and eager to adopt AI-driven solutions.
+>
 
 ### Persona 2
 
@@ -84,7 +95,8 @@ Furthermore, monitor and analyze system logs and security events to detect any s
 
 ### Product Scenario 1
 
-Scenario: \<Describe a usage scenario for your product.>
+Professor William incorporates SmartLearnChat into his course. Overtime with the use of provided analytic tools he discovers that student comprehension of subject matter has increased by 45%, additionally more students are asking questions and receiving adequate responses. Consequently user numbers rise and a substantial amount of professors begin to implement and back SmartLearnChat.
+
 
 
 ###Product Senario 2
