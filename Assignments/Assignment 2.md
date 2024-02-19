@@ -75,9 +75,20 @@ Tech Use: Moderate. Jess has a good desktop at home. She finds herself utilizing
 
 ### Persona 3
 
-**\<System Administrator\>**
+**\<Quality Assurance Anayst\>**
 
-\<The administrators role is to review and ensure the accuracy of the information in the tutorbot's output. They require a way to receive reported outputs, and a way to adjust the tutorbot.>
+Demographics: Blaire, 32, Quality Assurance Analyst.
+
+Behaviors: Proactive problem solver and continuous learner. Values access to comprehensive data sets and user feedback to assess AI performance. Communicates with developers, professors, and other stakeholders to facilitate collaboration and exchange of feedback.
+
+Goals: To measure and enhance the precision/reliability of the program's AI algorithm. 
+
+Challenges: Identifying biases/inaccuracies in AI responses. Balancing innovation with consistency. Ensuring the AI aligns with classroom learning objectives/educational standards. 
+
+Quote: "When we assess SmartLearn Chat, we cannot only focus on quantitative metrics. We need understand the nuances of how students interact with the system to fine-tune its responses and ensure an impactful and personalized learning experience."
+
+Tech Use: High level of technical proficiency. Blaire demonstrates a comprehensive understanding of machine learning, natural language processing, and programming. Regularly employs tools that involve software testing and data analysis as part of her job. 
+
 
 ### Persona 4
 
@@ -103,8 +114,10 @@ Professor William incorporates SmartLearnChat into his course. Overtime with the
 
 Jess's precalculus professor has integrated SmartLearn Chat into their course. Now, Jess can access a tutor when she typically works on her coursework at 8:00PM. Jess is able to have an interactive dialog with SmartLearn Chat anytime she runs into an issue. Jess now submits all of her assignments on time and doesn’t find herself worrying about her performance in class being affected by her busy life.
 
+### Product Senario 3
+Blaire, the AI Quality Assurance Analyst, leads the initiative to enhance the precision of SmartLearn Chat’s AI. She collaborates with the developers to implement advanced natural language processing algorithms, which refines the system’s ability to interpret complex queries and produce tailored responses. Through testing, data analysis and continuous iteration, Blaire ensures students utilizing SmartLearn Chat receive a highly effective and personalized learning experience.
 
-### Product Scenario 3 (Jose)
+### Product Scenario 4 (Jose)
 
 **Exam Preparation**
 
@@ -124,7 +137,7 @@ Outcome:
 
 Daniel's dedicated studying efforts, supplemented by the AI-powered tutoring application, pay off as he achieves a high score on his biology midterm. The interactive study materials, practice quizzes, and personalized support provided by the platform contribute to his academic success.
 
-### Product Scenario 4 (Jose)
+### Product Scenario 5 (Jose)
 
 **Personalized Lesson Planning**
 
