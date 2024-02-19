@@ -68,9 +68,9 @@ Goals: Jess would like to see a tutor to improve her comprehension of precalculi
 
 Challenges: Finding flexible tutoring. She cannot meet with the tutors supplied by the college after every class because she has work. 
 
-Quote: "I am only able to focus on my course work after 8:00PM. When I get stuck on a problem and need to ask the professor a question, I wait until morning to email them. Sometimes I have to skip my tutoring session if I get called into work or my daughter has a doctor’s appointment, etc. I need a tool that ensures I don't fall behind even on days I cannot attend class."
+Quote: "I am only able to focus on my course work after 8:00PM. When I get stuck on a problem and need to ask the professor a question, I wait until morning to email them. I try to take advantage of the tutors supplied by the college but the tutoring center is only open 9AM - 5PM. Sometimes I have to skip my tutoring session if I need to stay late at work or I have to drive my daughter to soccer practice, etc.."
 
-Tech Use: Moderate. Jess has a good desktop at home. 
+Tech Use: Moderate. Jess has a good desktop at home. She finds herself utilizing online resources such as YouTube videos on 2x speed to learn material she is having trouble on. 
 >
 
 ### Persona 3
@@ -99,7 +99,8 @@ Professor William incorporates SmartLearnChat into his course. Overtime with the
 
 
 
-###Product Senario 2
+### Product Senario 2
+
 Jess's precalculus professor has integrated SmartLearn Chat into their course. Now, Jess can access a tutor when she typically works on her coursework at 8:00PM. Jess is able to have an interactive dialog with SmartLearn Chat anytime she runs into an issue. Jess now submits all of her assignments on time and doesn’t find herself worrying about her performance in class being affected by her busy life.
 
 
