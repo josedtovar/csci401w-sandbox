@@ -174,15 +174,26 @@ Jess - “As a full-time student, employee, and parent I want to receive step-by
 1. Security and Privacy Concerns: Handling sensitive information about learning progress requires robust security measures. Compromises in security could lead to breaches and harm the trust users place in the app.
 
 
-2. Technology Literacy: Users may have varying levels of comfort and proficiency with technology. SmartLeanr Chat needs to be user-friendly and intuitive, catering to users with different levels of tech literacy.
+2. Technology Literacy: Users may have varying levels of comfort and proficiency with technology. SmartLearn Chat needs to be user-friendly and intuitive, catering to users with different levels of tech literacy.
 
 
 3.  Limited Adaptability to Diverse Learning Styles: Users have diverse learning preferences and styles. Balancing the app's features to cater to various learning modes, such as visual, auditory, and kinesthetic, can be challenging.
 
+### Feature3: Review System for AI responses 
 
 **User Story 3**
 
-As a \<user type\>, I want to \<describe the specific task or action\>, so I can \<explain the reason for performing this task\>.
+Blaire - "As Quality Assurance, I need to ensure the chatbot gives accurate and quality information based of the users prompts.
+
+**Constraints**
+
+1. A
+   
+2. A
+   
+3. A
+
+
 
 **User Story 4**
 
