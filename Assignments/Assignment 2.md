@@ -161,7 +161,7 @@ As a \<user type\>, I want to \<describe the goal of the feature\>, so I can \<e
 
 As a \<user type\>, I want to \<describe the specific task or action\>, so I can \<explain the reason for performing this task\>.
 
-### Feature: AI Driven Learning Paths 
+### Feature2: AI Driven Learning Paths 
 Learning Paths would utilize AI algorithms to create personalized learning paths tailored to each user’s proficiency, pace, and preferences. SmartLearn Chat recommend specific modules or topics based on the user’s skill gaps and learning history. 
 
 
@@ -199,17 +199,13 @@ The review system should not significantly impact the responsiveness or speed of
 
 The review system must be scalable to handle increasing volumes of user interactions as the chatbot's usage grows. It should be capable of processing a large number of responses efficiently to maintain quality assurance standards across all interactions.
 
+### Feature4: Reports for Professors based on Student Activity
 
 **User Story 4**
 
 Description:
 
-As a teacher, I want to access real time progress reports for each of my students, including grades, completed assignments, and areas of improvement, so that I can monitor their academic performance and provide targeted support as needed.
-
-Constraints:
-
-The reports should be updated in realtime to reflect the latest student data.
-The system should ensure secure access to student information, adhering to privacy regulations and guidelines.
+Mr. Tovar - "As a teacher, I want to access real time progress reports for each of my students, including grades, completed assignments, and areas of improvement, so that I can monitor their academic performance and provide targeted support as needed."
 
 Comments:
 
@@ -218,11 +214,21 @@ This user story prioritizes the need for teachers to have timely access to stude
 
 **Constraints**
 
-- \<List any constraints applicable to this feature.>
+Constraint 1: Data Security and Privacy
+
+The reports system must ensure the confidentiality and integrity of student data, adhering to relevant regulations such as FERPA (Family Educational Rights and Privacy Act). Access to student information should be restricted to authorized personnel only, and measures must be in place to prevent unauthorized access or data breaches.
+
+Constraint 2: System Integration
+
+The reports system should seamlessly integrate with existing educational platforms and databases used by the institution, such as Learning Management Systems (LMS) or student information systems. It must be compatible with various data formats and APIs to facilitate smooth data exchange and synchronization, minimizing disruption to existing workflows.
+
+Constraint 3: Customization and Flexibility
+
+The reports system should allow for customizable report templates and flexible data visualization options to accommodate the diverse needs and preferences of teachers. Teachers should be able to easily customize reports based on specific criteria, such as grading scales, assignment categories, or student demographics, to effectively monitor student progress and tailor interventions accordingly.
 
 **Comments**
 
-- \<Any additional comments or suggestions regarding this feature.>
+This user story prioritizes the need for teachers to have timely access to student progress data, enabling them to make data-driven decisions and interventions.
 
 ## User Experience
 
