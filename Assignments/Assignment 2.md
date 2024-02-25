@@ -19,7 +19,7 @@
     - [Description](#description)
     - [User Story 1](#user-story-1)
     - [User Story 2](#user-story-2)
-  - [Feature3: \Review System for AI responses](#feature3-Review-System-for-AI-responses)
+  - [Feature3: Review System for AI responses](#feature3-Review-System-for-AI-responses)
     - [User Story 3](#user-story-3)
     - [Constraints](#constraints)
     - [Comments](#comments)
