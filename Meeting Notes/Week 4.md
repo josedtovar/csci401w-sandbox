@@ -11,14 +11,14 @@ Emily C.
 Giovani T.
 
 ### 🎯 Meeting Objectives:
-Finish User Stories
-Provide Feedback as a Group on Assignment 2
-Start Discussing Assignment 3
+- Finish User Stories
+- Provide Feedback as a Group on Assignment 2
+- Start Discussing Assignment 3
 
 
 ### 🗒️ Notes:
 
-#### 1. Polished User Stories
+#### 1. Polished User Stories, and got Assignment 2 to a point we felt comfortable submitting it. 
 
 #### 2.  Discussed Assignment 3: 
 Potential Frameworks/Libraries:
