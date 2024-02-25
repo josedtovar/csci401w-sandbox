@@ -18,9 +18,9 @@ Start Discussing Assignment 3
 
 ### 🗒️ Notes:
 
-1. - Polished User Stories
+#### 1. Polished User Stories
 
-2.  Discussed Assignment 3: 
+#### 2.  Discussed Assignment 3: 
 Potential Frameworks/Libraries:
 - ML - Scikit-learn
 
