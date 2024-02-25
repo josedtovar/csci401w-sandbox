@@ -171,9 +171,13 @@ Jess - “As a full-time student, employee, and parent I want to receive step-by
 
 **Constraints**
 
-Security and Privacy Concerns: Handling sensitive information about learning progress requires robust security measures. Compromises in security could lead to breaches and harm the trust users place in the app.
-Technology Literacy: Users may have varying levels of comfort and proficiency with technology. SmartLeanr Chat needs to be user-friendly and intuitive, catering to users with different levels of tech literacy.
-Limited Adaptability to Diverse Learning Styles: Users have diverse learning preferences and styles. Balancing the app's features to cater to various learning modes, such as visual, auditory, and kinesthetic, can be challenging.
+1. Security and Privacy Concerns: Handling sensitive information about learning progress requires robust security measures. Compromises in security could lead to breaches and harm the trust users place in the app.
+
+
+2. Technology Literacy: Users may have varying levels of comfort and proficiency with technology. SmartLeanr Chat needs to be user-friendly and intuitive, catering to users with different levels of tech literacy.
+
+
+3.  Limited Adaptability to Diverse Learning Styles: Users have diverse learning preferences and styles. Balancing the app's features to cater to various learning modes, such as visual, auditory, and kinesthetic, can be challenging.
 
 
 **User Story 3**
