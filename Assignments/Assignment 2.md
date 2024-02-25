@@ -21,6 +21,7 @@
     - [User Story 2](#user-story-2)
   - [Feature3: Review System for AI responses](#feature3-Review-System-for-AI-responses)
     - [User Story 3](#user-story-3)
+  - [Feature4: Reports for Professors based on Student Activity](#feature4-Reports-for-Professors-based-on-Student-Activity)
     - [Constraints](#constraints)
     - [Comments](#comments)
 - [User Experience](#user-experience)
