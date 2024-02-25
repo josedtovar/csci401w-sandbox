@@ -178,7 +178,7 @@ Jess - “As a full-time student, employee, and parent I want to receive step-by
 
 3.  Limited Adaptability to Diverse Learning Styles: Users have diverse learning preferences and styles. Balancing the app's features to cater to various learning modes, such as visual, auditory, and kinesthetic, can be challenging.
 
-### Feature3: \Review System for AI responses
+### Feature3: Review System for AI responses
 A review system would allow the AI responses to improve in quality as the service is used more. By making each user able to flag responses, inaccurate responses can be mitigated.
 
 **User Story 3**
