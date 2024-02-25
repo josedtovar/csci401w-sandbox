@@ -5,7 +5,6 @@
 
 
 ### 📣 Attendees:
-Jose T.
 Aidan L.
 Emily C.
 Giovani T.
