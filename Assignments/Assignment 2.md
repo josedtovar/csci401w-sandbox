@@ -161,7 +161,13 @@ As a \<user type\>, I want to \<describe the goal of the feature\>, so I can \<e
 
 As a \<user type\>, I want to \<describe the specific task or action\>, so I can \<explain the reason for performing this task\>.
 
-**User Story 2**
+### AI Driven Learning Paths and Extended Support Hours
+•	Learning Paths would utilize AI algorithms to create personalized learning paths tailored to each user’s proficiency, pace, and preferences. 
+•	Could recommend specific modules or topics based on the user’s skill gaps and learning history. 
+•	SmartLearn Chat would also offer 24/7 access to chat support.
+
+
+**User Story**
 
 Jess - “As a full-time student, employee, and parent I want to receive step-by-step guidance through complex problems without time constraints. This will help me improve my problem-solving skills, complete my assignments in a timely manner, and reduce my overall stress levels.” 
 
