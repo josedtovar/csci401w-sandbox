@@ -32,3 +32,4 @@ Potential Database Management Systems (DBMS):
 
 General Notes: 
 - Look into Maven Project
+- AWS
