@@ -163,7 +163,7 @@ As a \<user type\>, I want to \<describe the specific task or action\>, so I can
 
 **User Story 2**
 
-As a \<user type\>, I want to \<describe the specific task or action\>, so I can \<explain the reason for performing this task\>.
+Jess - “As a full-time student, employee, and parent I want to receive step-by-step guidance through complex problems without time constraints. This will help me improve my problem-solving skills, complete my assignments in a timely manner, and reduce my overall stress levels.” 
 
 **User Story 3**
 
