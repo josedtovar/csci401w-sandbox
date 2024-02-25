@@ -187,12 +187,17 @@ Blaire - "As Quality Assurance, I need to ensure the chatbot gives accurate and 
 
 **Constraints**
 
-1. A
-   
-2. A
-   
-3. A
+Constraint 1: Regulatory Compliance
 
+The review system must adhere to all relevant regulations and guidelines governing data privacy and usage, ensuring that user data and interactions are handled in a compliant manner. 
+
+2: Performance Efficiency
+
+The review system should not significantly impact the responsiveness or speed of the chatbot's interactions with users. It must be designed to efficiently analyze AI responses without causing delays in the conversation flow. 
+
+3: Scalability
+
+The review system must be scalable to handle increasing volumes of user interactions as the chatbot's usage grows. It should be capable of processing a large number of responses efficiently to maintain quality assurance standards across all interactions.
 
 
 **User Story 4**
