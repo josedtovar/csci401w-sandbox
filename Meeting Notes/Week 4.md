@@ -19,7 +19,7 @@
 
 #### 1. Polished User Stories, and got Assignment 2 to a point we felt comfortable submitting it. 
 
-#### 2.  Discussed Assignment 3: 
+#### 2.  Discussed Assignment 3: We will do further research on these before our next meeting to make informed decisions.
 Potential Frameworks/Libraries:
 - ML - Scikit-learn
 
