@@ -109,7 +109,6 @@ Furthermore, monitor and analyze system logs and security events to detect any s
 Professor William incorporates SmartLearnChat into his course. Overtime with the use of provided analytic tools he discovers that student comprehension of subject matter has increased by 45%, additionally more students are asking questions and receiving adequate responses. Consequently user numbers rise and a substantial amount of professors begin to implement and back SmartLearnChat.
 
 
-
 ### Product Senario 2
 
 Jess's precalculus professor has integrated SmartLearn Chat into their course. Now, Jess can access a tutor when she typically works on her coursework at 8:00PM. Jess is able to have an interactive dialog with SmartLearn Chat anytime she runs into an issue. Jess now submits all of her assignments on time and doesn’t find herself worrying about her performance in class being affected by her busy life.
@@ -164,8 +163,7 @@ As a \<user type\>, I want to \<describe the specific task or action\>, so I can
 ### Feature2: AI Driven Learning Paths 
 Learning Paths would utilize AI algorithms to create personalized learning paths tailored to each user’s proficiency, pace, and preferences. SmartLearn Chat recommend specific modules or topics based on the user’s skill gaps and learning history. 
 
-
-**User Story**
+**User Story 2**
 
 Jess - “As a full-time student, employee, and parent I want to receive step-by-step guidance through complex problems without time constraints. This will help me improve my problem-solving skills, complete my assignments in a timely manner, and reduce my overall stress levels.” 
 
@@ -180,6 +178,7 @@ Jess - “As a full-time student, employee, and parent I want to receive step-by
 3.  Limited Adaptability to Diverse Learning Styles: Users have diverse learning preferences and styles. Balancing the app's features to cater to various learning modes, such as visual, auditory, and kinesthetic, can be challenging.
 
 ### Feature3: Review System for AI responses 
+
 
 **User Story 3**
 
