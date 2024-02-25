@@ -152,7 +152,7 @@ Using the platform's intuitive interface, Mr. Tovar customizes the lesson plans 
 
 ## User Stories
 
-### Feature: Material input for AI 
+### Feature 1: Material input for AI 
 
 Professors would be able to input class material including a variety of file types such as text files, PNG files, slideshows, and scanned documents which are understood and incorporated into AI chatbot responses. 
 
