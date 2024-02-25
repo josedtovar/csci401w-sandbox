@@ -152,15 +152,23 @@ Using the platform's intuitive interface, Mr. Tovar customizes the lesson plans 
 
 ## User Stories
 
-### Feature1: \<Name\>
+### Feature: Material input for AI 
 
-**Description**
+Professors would be able to input class material including a variety of file types such as text files, PNG files, slideshows, and scanned documents which are understood and incorporated into AI chatbot responses. 
 
-As a \<user type\>, I want to \<describe the goal of the feature\>, so I can \<explain the benefit to the user\>.
+**User Story** 
 
-**User Story 1**
+William - "As a professor who is eager to adopt AI-driven solutions and has a large student base I want to implement specialized content into an AI chatbot so I can provide constant personalized support." 
 
-As a \<user type\>, I want to \<describe the specific task or action\>, so I can \<explain the reason for performing this task\>.
+**Constraints** 
+
+1. Data Privacy and Security: Balancing the benefits of personalized support with the need to protect sensitive class materials. Limiting access to authorized professors and administrators and encryption could mitigate this. 
+
+
+2. Content Understanding and Accuracy: Ensuring that the chatbot accurately understands and incorporates class materials and can read a large variety of file types. Ensure responses are accurate to original content. Chatbot must understand subject-specific terminology, and nuances within course material. 
+
+
+3. Ethical Use and Bias Mitigation: Preventing unintentional biases or misuse of class materials. Monitor for biases in responses. Use inclusive language. Establish ethical guidelines for content usage.
 
 ### Feature2: AI Driven Learning Paths 
 Learning Paths would utilize AI algorithms to create personalized learning paths tailored to each user’s proficiency, pace, and preferences. SmartLearn Chat recommend specific modules or topics based on the user’s skill gaps and learning history. 
