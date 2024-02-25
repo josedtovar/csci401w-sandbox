@@ -5,9 +5,9 @@
 
 
 ### 📣 Attendees:
-Aidan L.
-Emily C.
-Giovani T.
+- Aidan L.
+- Emily C.
+- Giovani T.
 
 ### 🎯 Meeting Objectives:
 - Finish User Stories
