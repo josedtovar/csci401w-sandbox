@@ -183,7 +183,7 @@ Jess - “As a full-time student, employee, and parent I want to receive step-by
 
 **User Story 3**
 
-Blaire - "As Quality Assurance, I need to ensure the chatbot gives accurate and quality information based of the users prompts.
+Blaire - "As Quality Assurance, I need to ensure the chatbot gives accurate and quality information based on the users prompts."
 
 **Constraints**
 
