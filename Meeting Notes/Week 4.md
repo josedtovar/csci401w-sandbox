@@ -30,4 +30,5 @@ Potential IDEs:
 Potential Database Management Systems (DBMS):
 - MongoDB
 
-
+General Notes: 
+- Look into Maven Project
