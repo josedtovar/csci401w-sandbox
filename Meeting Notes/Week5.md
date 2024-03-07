@@ -18,6 +18,8 @@ Giovani T.
 - Achitecture: MERN stack.
     - MERN is a JavaScript Stack used for full-stack web applications
     - Comprised of four technologies: MongoDB, Express, React and Node.js
+- We will most like utilize OpenAI for our ChatBot. 
+    - Assistant API is in beta but seems promising.
 - Discussed the idea of using a bot builder - like botpress - to create our chat bot.
     - This would take some pressure off of us while still utilizing OpenAI.
     - Allows for creation of Knowledge Base and offers many tutorials.
