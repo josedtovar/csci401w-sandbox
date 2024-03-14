@@ -23,9 +23,9 @@ Decide as a group what other decisions need to be made for us to begin working o
       - We will need to develop the dataset. This will most likely be in JSON format (could be a database). 
             - We discussed the option of building our own dataset or utilizing an opensource dataset.
             - Due to the specific nature of our Chatbot knowledgebase, we will be building our own dataset.
-      - W will need to develop an API for user queries. 
+      - We will need to develop an API for user queries. 
 
 - There were a few feedback suggestions we didn't feel quite confident enough to act on this meeting (ex. state management in React or the plan to structure our data).
-   -We will research these topics over the next week. 
+   - We will research these topics over the next week. 
 
 - Another piece of feedback we want to act upon is documenting decisions we have deferred for future consideration and using our Github repository as a living document. 
