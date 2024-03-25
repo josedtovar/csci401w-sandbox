@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Web site created using create-react-app" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+  <script src="https://cdn.jsdelivr.net/npm/kute.js@2.2.4/dist/kute.min.js"></script>
+  <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet" />
+
+  <style>
+    body {
+      margin: 0;
+      font-family: "Noto-Sans-Display", sans-serif;
+      color: navy;
+      /*background: #202731;*/
+      background: rgb(213, 219, 235);
+      overflow-x: hidden;
+    }
+
+    section {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 400px;
+      padding: 100px 20vw;
+    }
+  </style>
+<div class="tabs">
+  <a class="button" href="index.html" data-text="Home">
+    Home
+  </a>
+  <a class="button" href="app.html" data-text="App">
+    App
+  </a>
+  <a class="button" href="about.html" data-text="About Us">
+    About Us
+  </a>
+  <a class="button" href="login.html" data-text="Login">
+    Sign Out
+  </a>
+</div>
+  <title>React App</title>
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+
+  <section class="portalgrey">
+    <div class="wave">
+      <svg data-name="Layer 1" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path
+          d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"
+          class="shape-fill"></path>
+      </svg>
+    </div>
+    <h1>Section 1</h1>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
+      natus, in officiis sint minus voluptatibus id maxime fugiat obcaecati
+      earum voluptatum nobis omnis corrupti eius aperiam illo vitae doloribus
+      quas.
+    </p>
+    <svg id="visual" viewBox="0 0 960 300" width="960" height="300" xmlns="https://www.w3.org/2000/svg"
+      xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1">
+      <rect x="0" y="0" width="960" height="300" fill="#D5DBEB"></rect>
+      <g transform="translate(488.1704028377427 144.25794055335967)">
+        <path id="blob4"
+          d="M45.5 -85.1C57.6 -71.7 65.2 -56.9 74.8 -42.4C84.5 -28 96.2 -14 99.1 1.7C102 17.3 96 34.7 87 50.3C78 65.8 66 79.7 51 94.9C36 110 18 126.5 -0.6 127.5C-19.2 128.5 -38.3 114.1 -60 102.7C-81.6 91.4 -105.8 83.2 -113.4 66.6C-120.9 50 -112 25 -101.1 6.2C-90.3 -12.5 -77.6 -25 -71.2 -43.6C-64.8 -62.2 -64.7 -87 -53.8 -101.1C-43 -115.1 -21.5 -118.6 -2.4 -114.4C16.7 -110.2 33.3 -98.4 45.5 -85.1"
+          fill="#0082C4"></path>
+      </g>
+      <g transform="translate(489.5977013678043 149.83267637048957)" style="visibility: hidden">
+        <path id="blob3"
+          d="M57.1 -98.3C71.3 -90.8 78.1 -69.9 85.3 -51.3C92.6 -32.7 100.3 -16.3 104.8 2.6C109.2 21.5 110.5 43 103.1 61.3C95.6 79.7 79.6 94.8 61 99.9C42.3 105 21.2 100 0.3 99.4C-20.5 98.8 -41 102.7 -62.7 99.3C-84.3 96 -107.1 85.5 -118.5 67.8C-129.9 50 -130 25 -121.9 4.7C-113.8 -15.7 -97.6 -31.3 -84.8 -46.6C-71.9 -61.9 -62.5 -76.9 -48.9 -84.7C-35.3 -92.5 -17.7 -93.1 1.9 -96.4C21.5 -99.7 43 -105.7 57.1 -98.3"
+          fill="#0082C4"></path>
+      </g>
+    </svg>
+    <script>
+      tween = KUTE.fromTo('#blob4', { path: '#blob3' }, { path: '#blob4' }, { repeat: 999, duration: 3000, yoyo: true })
+      tween.start()
+    </script>
+
+  </section>
+
+  <div class="spacer layer1"></div>
+
+  <section class="portalgrey">
+    <h1>Section 2</h1>
+    <p>
+      Dolore modi veniam ipsum officia, veritatis repellat? Cumque deleniti
+      necessitatibus provident quasi, dolores dolorem asperiores, dolor, nisi
+      velit quo animi quod omnis est. Ducimus quis facilis beatae libero amet
+      eaque.
+    </p>
+    <svg id="visual" viewBox="0 0 960 300" width="960" height="300" xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+      <g transform="translate(498.38789294398157 166.59981393815303)">
+        <path id="blob1"
+          d="M74.5 -98.2C89.9 -75.9 91.1 -46.1 93.1 -18.8C95 8.5 97.8 33.2 88.7 53.5C79.7 73.7 59 89.5 36.6 95.3C14.3 101.2 -9.8 97.1 -36.5 91.3C-63.3 85.5 -92.7 78 -111.2 58.3C-129.7 38.5 -137.2 6.5 -127.7 -18.2C-118.2 -42.8 -91.5 -60.1 -67.4 -80.8C-43.3 -101.6 -21.6 -125.8 4 -130.5C29.6 -135.2 59.1 -120.5 74.5 -98.2"
+          fill="#0082C4"></path>
+      </g>
+      <g transform="translate(463.43356666228703 153.76392932612382)" style="visibility: hidden">
+        <path id="blob2"
+          d="M67.6 -83C88.4 -63 106.7 -42.5 116.7 -16.1C126.7 10.3 128.3 42.6 113 61.7C97.8 80.7 65.6 86.4 35.5 97.2C5.4 108.1 -22.8 124 -43.4 117.4C-64 110.7 -77 81.3 -83.9 55.3C-90.8 29.2 -91.6 6.5 -91.1 -19.6C-90.7 -45.6 -89.1 -74.9 -73.7 -95.8C-58.3 -116.8 -29.1 -129.4 -2.9 -125.9C23.4 -122.5 46.7 -103 67.6 -83"
+          fill="#0082C4"></path>
+    </g>
+    </svg>
+
+    <script>
+      const tween = KUTE.fromTo('#blob1', { path: '#blob2' }, { path: '#blob1' }, { repeat: 999, duration: 3000, yoyo: true })
+      tween.start()
+    </script>
+  </section>
+  
+  <div class="bluewaves"></div>
+  <footer class="footer">
+    <p>
+      Non consequatur iure perferendis dolor praesentium exercitationem culpa,
+      amet nemo a, rerum consequuntur, accusamus illo quas repellat magnam
+      quidem laboriosam cum laborum! Quod ducimus nemo quasi quisquam iste in.
+      Illo.
+    </p>
+  </footer>
+</body>
+
+</html>
