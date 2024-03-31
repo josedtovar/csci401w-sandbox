@@ -3,6 +3,7 @@ import { PORT, mongoDBURL } from './config.js';
 import mongoose from 'mongoose';
 import { Report } from './models/reportModel.js';
 import reportsRoute from './routes/reportsRoute.js';
+import cors from 'cors';
 
 const app = express(); //variable for express
 
