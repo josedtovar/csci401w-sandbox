@@ -40,7 +40,7 @@ Provide a simple diagram or description of the high-level system.
 
 ### 3.1. Frontend Framework
 
-HTML, JavaScript, CSS with Elastic UI / React
+HTML, JavaScript, CSS with Material UI / React
 
 ### 3.2. Backend Framework
 
