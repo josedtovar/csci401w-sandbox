@@ -16,7 +16,7 @@
 
 ## Product Vision
 
-- **Product Vision Statement:** Replace this with your refined product vision statement.
+- **Product Vision Statement:** Redefining education with personalized tutoring powered by AI. Tailored to each student's needs and adaptable to educators' preferences, and empowering teachers with the tools to guide their pupils.
 
 ## Learning and Growth Journey
 
@@ -25,16 +25,19 @@
 Reflect on your journey in learning software engineering through concrete scenarios:
 
 1. **Team Collaboration Approach:**
-   Describe how your team used tools like Slack and Trello to coordinate tasks. Share an example of how assigning tasks in Trello helped streamline your group projects and fostered effective communication.
+   -Our team primarily leveraged Microsoft Teams for direct communication and scheduling meetings. We found that by utilizing channels within Teams, we could effectively coordinate tasks and manage projects.
+   -For example, during our weekly meetings, we would outline project milestones and assign tasks directly within Teams. Each milestone was broken down into actionable steps, with team members assigned specific responsibilities. This approach allowed us to maintain clarity and accountability within our projects.
+   Assigning and informing eachother when we were working on our Github via Teams turned out to be critically important to making sure we would not do overlapping work. We could easily track progress, ask questions, and provide updates to eachother fostering effective communication without the need for multiple tools.
+   -Overall, our reliance on Microsoft Teams for task coordination and project management proved to be efficient and effective, allowing us to stay organized and productive throughout our collaboration.
 
 2. **Challenges and Overcoming Them:**
-   Recall a specific challenge, like debugging a code issue together. Explain how you collaborated to identify the bug's source and successfully resolved it. This experience showcases your problem-solving and teamwork skills.
+   An issue we experienced early on in our project was working on the same sections of code at the same time. This created issues when trying to push our code to GitHub. Our team overcame this by creating a groupchat where we would tell eachother when we began working on a part of our code letting eachother know what we were working on and when we were committing it. Additionally to this we began to utilize branches which paired with out greater communications greatly reduced our run in with this issue.
 
 3. **Accomplishments and Pride:**
    Highlight a feature you contributed to, such as creating a login system. Discuss how your combined skills enabled the team to deliver a functional feature that enhances user experience.
 
 4. **Learning and Growth:**
-   Provide an example of how you applied a concept learned in class to a practical scenario. Describe how you used version control (like Git) to collaborate on a coding assignment, improving code organization and collaboration.
+Learning about different aspects of Git and the Agile approach to software development were essential in our process. By meeting weekly we were able to pivot the goal of our project, multiple times. Initially planning to make our chatbot more personalized to students, it became more of a tool to allow Teachers to offer and control AI usage of their students. Learning about Git also was a large aspect of our project, utilizing branches, commits, pull requests, and merging branches.
 
 ## Product Showcase
 
