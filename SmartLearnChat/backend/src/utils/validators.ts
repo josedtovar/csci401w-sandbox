@@ -25,7 +25,13 @@ export const loginValidator = [
     .withMessage("Password should contain at least 6 characters"),
   ];
 
+// Validator: User must provide name for sign up
 export const signupValidator = [
   body("name").notEmpty().withMessage("Name is required"),
   ...loginValidator,
 ];
+
+// Validator: User must provide message
+export const chatCompletionValidator = [
+    body("message").notEmpty().withMessage("Message  is required"),
+  ];
