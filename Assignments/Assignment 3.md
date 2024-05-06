@@ -32,7 +32,7 @@ This document describes the archeticture of our MERN Stack Project
 
 ## 2. System Overview
 
-Provide a simple diagram or description of the high-level system.
+We used MERN stack to develop our system. The four technologies which form the stack are MongoDB, Express, React, and Node.js. React is used as our interface. It is a JavaScript framework that allows us to create client-side applications. Express and Node.js make up our server-side framework. Express is used as a framework for our Node.js server which handles HTTP requests and responses. The React front-end connects to Express using XML HTTP requests, GETs and POSTs. The Express functions access and update our data in MongoDB, our database. Mongo stores our data such as user profiles. The JSON documents created by React are sent to the Express server and are processed and stored in MongoDB where they can be retrieved in the future.
 
 ---
 
@@ -40,7 +40,7 @@ Provide a simple diagram or description of the high-level system.
 
 ### 3.1. Frontend Framework
 
-HTML, JavaScript, CSS with Elastic UI / React
+HTML, JavaScript, CSS with Material UI / React
 
 ### 3.2. Backend Framework
 

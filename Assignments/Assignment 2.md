@@ -29,7 +29,7 @@
 
 ## Product Definition
 
-\<Insert your executive summary—briefly describe your product's purpose and goals.>
+\<SmartLearnChat is an innovative education platform designed to enhance the teaching and learning experience. Primarily marketed towards students and professors it provides real-time personalized tutoring across various subjects by helping with homework, clarifying complex concepts, assisting in studying for exams and many other use cases. Our chatbot allows user profiles to be entered leading it to adapt to individual learning styles. By analyzing student interactions it can identify common misconceptions and areas of struggle, providing professors with valuable insights which can be used to refine their teaching methods. SmartLearnChat aims to streamline the learning and teaching experience for students and professors.>
 
 ## Vision
 
