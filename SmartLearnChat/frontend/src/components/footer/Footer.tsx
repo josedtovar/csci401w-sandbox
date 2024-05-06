@@ -12,11 +12,11 @@ const Footer = () => {
           marginTop: 60,
         }}
       >
-        <p style={{ fontSize: "30px", textAlign: "center", padding: "20px" }}>
-           Team C:
+        <p style={{ color: "black", fontSize: "30px", textAlign: "center", padding: "20px" }}>
+           
           <span>
             <Link
-              style={{ color: "white" }}
+              style={{ color: "black" }}
               className="nav-link"
               to={"https://github.com/josedtovar/csci401w-sandbox"}
             >
@@ -24,7 +24,7 @@ const Footer = () => {
             </Link>
 
             <Link
-            style={{ color: "white" }}
+            style={{ color: "black" }}
             className="nav-link"
             to={"https://trello.com/b/dXfz9OY7/csci401w-team-c"}
             >

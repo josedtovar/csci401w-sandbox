@@ -31,7 +31,7 @@ const Signup = () => {
   return (
     <Box width={"100%"} height={"100%"} display="flex" flex={1}>
       <Box padding={8} mt={8} display={{ md: "flex", sm: "none", xs: "none" }}>
-        <img src="airobot.png" alt="Robot" style={{ width: "400px" }} />
+        <img src="SM.png" alt="Chatbot" style={{ width: "400px" }} />
       </Box>
       <Box
         display={"flex"}
@@ -47,9 +47,10 @@ const Signup = () => {
           style={{
             margin: "auto",
             padding: "30px",
-            boxShadow: "10px 10px 20px #000",
             borderRadius: "10px",
-            border: "none",
+            borderStyle: "dotted",
+            borderColor: "white",
+            background: "grey"
           }}
         >
           <Box

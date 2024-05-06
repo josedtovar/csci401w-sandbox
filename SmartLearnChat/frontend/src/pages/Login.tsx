@@ -23,6 +23,7 @@ const Login = () => {
       toast.error("Signing In Failed", { id: "login" });
     }
   };
+  //If user is already logged in, they will be redirected to chat page
   useEffect(() => {
     if (auth?.user) {
       return navigate("/chat");
@@ -31,7 +32,7 @@ const Login = () => {
   return (
     <Box width={"100%"} height={"100%"} display="flex" flex={1}>
       <Box padding={8} mt={8} display={{ md: "flex", sm: "none", xs: "none" }}>
-        <img src="test.png" alt="Image Needed Here" style={{ width: "400px" }} />
+        <img src="SM.png" alt="Image Needed Here" style={{ width: "400px" }} />
       </Box>
       <Box
         display={"flex"}
@@ -47,9 +48,10 @@ const Login = () => {
           style={{
             margin: "auto",
             padding: "30px",
-            boxShadow: "10px 10px 20px #000",
-            borderRadius: "10px",
-            border: "none",
+            borderRadius: "20px",
+            borderStyle: "dotted",
+            borderColor: "white",
+            background: "grey"
           }}
         >
           <Box
@@ -79,8 +81,8 @@ const Login = () => {
                 borderRadius: 2,
                 bgcolor: "#36C0F1",
                 ":hover": {
-                  bgcolor: "white",
-                  color: "black",
+                  bgcolor: "black",
+                  color: "white",
                 },
               }}
               endIcon={<IoIosLogIn />}

@@ -12,7 +12,7 @@ axios.defaults.withCredentials = true;
 
 const theme = createTheme({
   typography: {
-    fontFamily: "Noto Sans,serif",
+    fontFamily: "Noto Sans",
     allVariants: { color: "white" },
   },
 });

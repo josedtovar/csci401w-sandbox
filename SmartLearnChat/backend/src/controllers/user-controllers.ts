@@ -142,7 +142,7 @@ export const userLogin = async (
           if (user._id.toString() !== res.locals.jwtData.id) {
             return res.status(401).send("Permissions didn't match");
           }
-      
+          //remove user cookies
           res.clearCookie(COOKIE_NAME, {
             httpOnly: true,
             domain: "localhost",

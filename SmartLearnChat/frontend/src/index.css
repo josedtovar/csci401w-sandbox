@@ -4,8 +4,8 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: rgba(229, 215, 194, 0.973);
-  color: #58595B;
+  background: rgba(216, 216, 219, 0.973);
+  color: #516794;
   font-family: "Noto Sans", serif;
 }
 
@@ -26,7 +26,7 @@ body {
 
 .MuiOutlinedInput-input-root.Mui-focused,
 .MuiOutlinedInput-notchedOutline {
-  border-color: white !important;
+  border-color: rgb(236, 230, 230) !important;
 }
 
 .rotate {

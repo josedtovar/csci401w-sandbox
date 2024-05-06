@@ -10,6 +10,7 @@ const Home = () => {
     <Box width={"100%"} height={"100%"}>
       <Box
         sx={{
+        
           display: "flex",
           width: "100%",
           flexDirection: "column",
@@ -32,10 +33,11 @@ const Home = () => {
         >
           
           <img
+            
             className="image-inverted rotate"
-            src="openai.png"
-            alt="openai"
-            style={{ width: "200px", margin: "auto" }}
+            src="bot.png"
+            alt="bot"
+            style={{ color:"black", width: "200px", margin: "auto" }}
           />
         </Box>
         

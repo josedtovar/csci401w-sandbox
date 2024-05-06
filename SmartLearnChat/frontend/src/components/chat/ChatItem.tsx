@@ -38,16 +38,17 @@ const ChatItem = ({
   return role == "assistant" ? (
     <Box
       sx={{
+        color: "black",
         display: "flex",
         p: 2,
-        bgcolor: "#004d5612",
+        bgcolor: "grey",
         gap: 2,
         borderRadius: 2,
         my: 1,
       }}
     >
       <Avatar sx={{ ml: "0" }}>
-        <img src="openai.png" alt="openai" width={"30px"} />
+        <img src="bot.png" alt="bot" width={"30px"} />
       </Avatar>
       <Box>
         {!messageBlocks && (

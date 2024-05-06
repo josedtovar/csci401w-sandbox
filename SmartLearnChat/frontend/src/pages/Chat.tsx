@@ -10,6 +10,7 @@ import {
     getUserChats,
     sendChatRequest,
   } from "../helpers/api-communicator";
+import toast from "react-hot-toast";
 type Message = {
     role: "user" | "assistant";
     content: string;
@@ -17,9 +18,12 @@ type Message = {
 
 
 const Chat = () => {
+    const navigate = useNavigate();
     const inputRef = useRef<HTMLInputElement | null>(null);
     const auth = useAuth();
     const [chatMessages, setChatMessages] = useState<Message[]>([]);
+
+    // handleSubmit - handles new messages input by user
     const handleSubmit = async () => {
         const content = inputRef.current?.value as string;
         if (inputRef && inputRef.current) {
@@ -31,8 +35,47 @@ const Chat = () => {
         const chatData = await sendChatRequest(content);
         setChatMessages([...chatData.chats]);
         //Send to backend
-    }
-    return <Box
+    };
+
+    // handleDeleteChats - function that allows user to clear chat
+    const handleDeleteChats = async () => {
+        try {
+          toast.loading("Deleting Chats", { id: "deletechats" });
+          await deleteUserChats();
+          setChatMessages([]);
+          toast.success("Deleted Chats Successfully", { id: "deletechats" });
+        } catch (error) {
+          console.log(error);
+          toast.error("Deleting chats failed", { id: "deletechats" });
+        }
+      };
+
+    //Displays message confirmation of chats load
+    useLayoutEffect(() => {
+        if (auth?.isLoggedIn && auth.user) {
+          toast.loading("Loading Chats", { id: "loadchats" });
+          getUserChats()
+            .then((data) => {
+              setChatMessages([...data.chats]);
+              toast.success("Successfully loaded chats", { id: "loadchats" });
+            })
+            .catch((err) => {
+              console.log(err);
+              toast.error("Loading Failed", { id: "loadchats" });
+            });
+        }
+      }, [auth]);
+
+    //If a user attempts to acces /chat page and they are not logged in,
+    // they will be redirected to the /login
+    useEffect(() => {
+        if (!auth?.user) {
+          return navigate("/login");
+        }
+      }, [auth]);
+    
+    //Page Layout
+    return ( <Box
     sx = {{
         display: "flex",
         flex: 1,
@@ -52,7 +95,7 @@ const Chat = () => {
                     display: "flex",
                     width: "100%",
                     height: "60vh",
-                    bgcolor: "rgb(60,59,58)",
+                    bgcolor: "rgb(0,0,0)",
                     borderRadius: 5,
                     flexDirection: "column",
                     mx: 3,
@@ -60,7 +103,7 @@ const Chat = () => {
                 <Avatar
                 sx={{
                 mx: "auto",
-                my: 2,
+                my: 6,
                 bgcolor: "white",
                 color: "black",
                 fontWeight: 700,
@@ -70,26 +113,28 @@ const Chat = () => {
                 {auth?.user?.name.split(" ")[1][0]}
                 </Avatar>
 
-                <Typography sx={{ mx: "auto", fontFamily: "Noto Sans", my:4, p:3 }}>
-                Welcome to SmartLearnChat! An interactive Chatbot.
-            </Typography>
+                <Typography sx={{ mx: "auto", fontFamily: "Noto Sans", my:3, p:3 }}>
+                Welcome to SmartLearnChat! An interactive Chatbot built by Team C.
+                </Typography>
 
-            <Typography sx={{ mx: "auto", fontFamily: "Noto Sans", my: 4, p: 3 }}>
-                Please avoid sharing personal information.
-            </Typography>
+                <Typography sx={{ mx: "auto", fontFamily: "Noto Sans", my: 3, p: 3 }}>
+                Key Features Include: 
+                </Typography>
 
             <Button
-                //onClick={handleDeleteChats}
+                // A reference to handleDeleteChats that allows users to delete chat history
+                // with the click of a button!
+                onClick={handleDeleteChats}
                 sx={{
                 width: "200px",
                 my: "auto",
-                color: "white",
+                color: "black",
                 fontWeight: "700",
                 borderRadius: 3,
                 mx: "auto",
-                bgcolor: red[300],
+                bgcolor: "white",
                 ":hover": {
-                    bgcolor: red.A400,
+                    bgcolor: red[300],
                 },
                 }}
             >
@@ -130,44 +175,46 @@ const Chat = () => {
                 scrollBehavior: "smooth",
             }}
             > {chatMessages.map((chat, index) => (
-                //@ts-ignore
+                
                 <ChatItem content={ chat.content} role={chat.role} key={index}/>
-                ))};
+                ))}
             </Box>
 
             <div
-            style={{
-            width: "100%",
-            borderRadius: 8,
-            backgroundColor: "rgb(17,27,39)",
-            display: "flex",
-            margin: "auto",
-            }}
-            ></div>
+                style={{
+                 width: "100%",
+                 borderRadius: 8,
+                 backgroundColor: "rgb(0,15,0)",
+                 display: "flex",
+                 margin: "auto",
+                 }}
+            >
 
             {" "}
 
             <input
-            ref={inputRef}
-            type="text"
-            style={{
-              width: "100%",
-              backgroundColor: "transparent",
-              padding: "30px",
-              border: "none",
-              outline: "none",
-              color: "white",
-              fontSize: "20px",
+                ref={inputRef}
+                type="text"
+                style={{
+                    width: "100%",
+                    backgroundColor: "black",
+                    padding: "30px",
+                    border: "none",
+                    outline: "none",
+                    color: "white",
+                    fontSize: "20px",
             }}
             />
 
             <IconButton onClick={handleSubmit} sx={{ color: "white", mx: 1 }}>
               <IoMdSend />
              </IconButton>
+             </div>
 
             
             </Box>
-    </Box>;
+    </Box>
+);
 };
 
 export default Chat;
