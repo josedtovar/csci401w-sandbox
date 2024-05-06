@@ -4,8 +4,8 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: #05101c;
-  color: white;
+  background: #FFFFFF;
+  color: black;
   font-family: "Noto Sans", serif;
 }
 
@@ -26,5 +26,5 @@ body {
 
 .MuiOutlinedInput-input-root.Mui-focused,
 .MuiOutlinedInput-notchedOutline {
-  border-color: white !important;
+  border-color: black !important;
 }

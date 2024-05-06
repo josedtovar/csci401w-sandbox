@@ -9,21 +9,21 @@ const Header = () => {
     const auth = useAuth();
     
     return (
-        <AppBar sx={{ bgcolor: "transparent", position: "static", boxShadow: "none" }}>
+        <AppBar sx={{ bgcolor: "#FFFFFF", position: "static", boxShadow: "none"  }}>
             <Toolbar sx={{ display: "flex" }}>
                 <Logo />
                 <div>
                 {auth?.isLoggedIn ? (
             <>
               <NavigationLink
-                bg="#00fffc"
+                bg="#1E51FD"
                 to="/chat"
                 text="Go To Chat"
                 textColor="black"
               />
               <NavigationLink
-                bg="#51538f"
-                textColor="white"
+                bg="#FF183B"
+                textColor="black"
                 to="/"
                 text="logout"
                 onClick={auth.logout}
@@ -32,14 +32,14 @@ const Header = () => {
           ) : (
             <>
               <NavigationLink
-                bg="#00fffc"
+                bg="#1E51FD"
                 to="/login"
                 text="Login"
                 textColor="black"
               />
               <NavigationLink
-                bg="#51538f"
-                textColor="white"
+                bg="#FF183B"
+                textColor="black"
                 to="/signup"
                 text="Signup"
               />

@@ -16,7 +16,7 @@ const Logo = () => {
           alt="openai"
           width={"30px"}
           height={"30px"}
-          className="image-inverted"
+         // className="image-inverted"
         />
       </Link>{" "}
       <Typography
@@ -24,7 +24,7 @@ const Logo = () => {
           display: { md: "block", sm: "none", xs: "none" },
           mr: "auto",
           fontWeight: "800",
-          textShadow: "2px 2px 20px #000",
+          textShadow: "0px 0px 0px #000",
         }}
       >
         <span style={{ fontSize: "20px" }}>SmartLearnChat </span>
