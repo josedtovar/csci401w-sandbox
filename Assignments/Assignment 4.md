@@ -78,10 +78,24 @@ Illustrate a coding concept with a relatable analogy:
 
 Answer the following questions with practical examples:
 
-1. **Team Collaboration Skills:** Reflect on a time when coordinating with team members improved a project's outcome or efficiency.
+1. **Team Collaboration Skills:*
+
+Consistently meeting every week as well as when any of us needed help allowed us to collaborate more effectively. Using teams as a commincation platform greatly improved our workflow. - Giovani
+
 2. **Problem-Solving Abilities:** Share a situation where you had to troubleshoot a technical issue and how you approached the problem-solving process.
-3. **Contributions to the Project:** Discuss a specific task you contributed to and how your involvement positively impacted the project's development.
+
+A technical issue I had early in development was getting all the pieces of the MERN stack working together correctly as well as issues with vscode and GitHub. I restarted the project multiple times due to things breaking and not being able to figure out how to fix them. I solved these problems by using online resources which explained how it is supposed to work. - Giovani
+   
+4. **Contributions to the Project:** Discuss a specific task you contributed to and how your involvement positively impacted the project's development.
+
+I contributed to some initial setup for the MERN stack but mostly spent time on frontend development. I think my involvlment helped to add a dynamic and colorful UI which positively impacts the look of our project. - Giovani
+
 4. **Applied Knowledge:** Describe a technical concept learned in class that you've used in your project, highlighting its practical relevance.
+
+
+  
 5. **Adaptability and Learning:** Provide an example of a challenge you faced that required learning a new skill or concept, and how you adapted to overcome it.
+
+The entire process of building a fullstack application was new to me and so the entire concept had to be learned. I adapted to this by watching many vidoes on using MERN stack and how each part of the stack works together. - Giovani
 
 ---
