@@ -43,7 +43,7 @@ Learning about different aspects of Git and the Agile approach to software devel
 
 ### Elevator Pitch
 
-Summarize your product's value proposition with relatable examples. For instance, explain how your app's streamlined user interface improves navigation for users, enhancing their overall experience.
+SmartLearnChat is a AI chatbot that allows teachers to give students access to AI in the classroom safely while also being able to limit access to only students. Secure development allows teachers and students alike to use this software without any concern over their online safety.
 
 ### Product Demo
 
@@ -67,7 +67,7 @@ Illustrate a coding concept with a relatable analogy:
 ### Access Your Work
 
 - **[Presentation Slides](link-to-presentation):** Share a link to your final presentation slides.
-- **[Source Code Repository](link-to-repo):** Provide access to your source code repository.
+- **[Source Code Repository](link-to-repo):** (https://github.com/josedtovar/csci401w-sandbox/tree/main)
 - **Other Materials:** Include links to diagrams or documents you created for your project.
 
 ## Final Reflection Presentation
