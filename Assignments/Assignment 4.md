@@ -92,7 +92,7 @@ Giovani Torrico - Consistently meeting every week as well as when any of us need
 
 Aidan Lowther - Reaching out to the team before commits were made as well as sharing a screen while working collaboratively made the groupwork function more smoothly.
 
-Emily Cabral - 
+Emily Cabral - There were a lot of necessary changes to the scope and functionality of our project, consistently contributing to meeting-notes and pushing current code were important to made sure everyone was on the same page.
 
 2. **Problem-Solving Abilities:** Share a situation where you had to troubleshoot a technical issue and how you approached the problem-solving process.
 
@@ -100,7 +100,7 @@ Giovani Torrico - A technical issue I had early in development was getting all t
 
 Aidan Lowther - Initially we planned on using Assistant API, due to a new version of it recently coming out most of the tutorials walking through its application were outdated and difficult to follow. For this reason we pivoted and decided to utilize the OpenAI API at the cost of some features. This allowed us to focus more on application security.
 
-Emily Cabral - 
+Emily Cabral - Many of the tutorials we found that utilized OpenAI were using an outdated model. I was able to research my issues and connect our OpenAI API by utilizing OpenAi's official documentation, Github, StackOverFlow forums, and OpenAI's node_modules. 
    
 3. **Contributions to the Project:** Discuss a specific task you contributed to and how your involvement positively impacted the project's development.
 
@@ -108,7 +108,7 @@ Giovani Torrico - I contributed to some initial setup for the MERN stack but mos
 
 Aidan Lowther – My biggest contribution came from my past experience utilizing machine learning, although Emily’s understanding of API’s proved to be the quintessential part of making our application functional.
 
-Emily Cabral - 
+Emily Cabral - I handled a lot of the APIs and middleware for the project. We wanted to make the code have a lot of security features, so most of my contributions fall under those categories. 
   
 4. **Adaptability and Learning:** Provide an example of a challenge you faced that required learning a new skill or concept, and how you adapted to overcome it.
 
@@ -116,6 +116,6 @@ Giovani Torrico - The entire process of building a fullstack application was new
 
 Aidan Lowther – Learning how to correctly use Github was a hurdle for me that I think allowed me to grow and will benefit me in the near future.
 
-Emily Cabral - 
+Emily Cabral - I think working collectively as a group was challenging for me. We don't have many group coding projects as undergraduate CS students at RIC, and an application this large required a lot of teamwork.
 
 ---
