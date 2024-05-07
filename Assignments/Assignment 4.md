@@ -51,12 +51,13 @@ Share simple examples of your product's functionality:
 
 - **Example 1:** Cybersecurity-focused user authentication.
   
-- A.) In this example a user entered their credentials.
+- A.) In this example a user entered their credentials incorrectly.
+![Incorrect-Credentials](https://github.com/josedtovar/csci401w-sandbox/assets/157763327/66252588-76e3-423f-af42-92ba5ecaed70)
 
-- B.) This is an example of someone attempting to access the /chats page when they are not logged in. Their authentication status is checked, and they are redirected to a Not found page.
+- B.) This demonstrates the password encryption. 
+- ![Password-Encryption](https://github.com/josedtovar/csci401w-sandbox/assets/157763327/8290674a-c610-47da-89eb-648b0231f8be)
 
 
-  
 - **Example 2:** Coding-Tutor. The Chatbot is equipped with 'react-syntax-highlighter'. This highlights code blocks in Javascript style, making syntax easier to see for the user.
 - ![SmartLearnChat-Coding-Help](https://github.com/josedtovar/csci401w-sandbox/assets/157763327/107ee764-dbd2-46c1-a6b4-70cbc79011da)
 
@@ -64,13 +65,17 @@ Share simple examples of your product's functionality:
 
 Simplify a technical concept with an example:
 
-- **Example:** Explain the client-server architecture by comparing it to a waiter taking orders (client) and a kitchen preparing food (server).
-
-### Codebase Exploration
+- **Example:** We used a MERN Stack.
+- The MERN stack is a JavaScript stack used for the smooth flow of the development process. MongoDB is the database used to store the application's data. Express.js and Node.js are used to create the web server that handles requests and responses. React.js is used to build the user interface elements, which is what users see and interact with in the browser. This combination allows for the whole application to be written in JavaScript, one of the most widely used programming languages.
 
 Illustrate a coding concept with a relatable analogy:
 
-- **Example:** Describe a conditional statement (like an "if" statement) as a recipe that's followed only if certain conditions, like having all ingredients, are met.
+- MongoDB: Think of MongoDB as your refrigerator. It's where you store all the ingredients for your recipes (data for your application). Just like how you organize different shelves for vegetables, meats, and dairy, MongoDB organizes your data into collections and documents.
+- Express.js: Express.js acts as your kitchen countertop. It's where you prepare all the ingredients and assemble them into meals (routes and middleware). With Express.js, you can chop, mix, and cook your ingredients (handle HTTP requests) efficiently.
+- React.js: React.js is like your recipe book. It contains all the instructions (components) needed to create different dishes (UI elements) for your customers. Just like how recipes are organized into sections like appetizers, mains, and desserts, React components are organized for easy navigation and reuse.
+- Node.js: Node.js serves as your chef. It orchestrates the entire cooking process, from receiving orders (handling server-side logic) to preparing meals (interacting with databases and other services) and serving them to customers (sending responses).
+- AI Integration: Integrating AI into your chatbot is akin to hiring a sous chef. The AI helps you automate repetitive tasks, like suggesting recipes based on dietary preferences or answering common customer inquiries, allowing you to focus on more complex tasks.
+SAAS Model: Your SAAS model is comparable to offering meal subscriptions. Instead of customers buying individual meals, they subscribe to your service and receive regular deliveries of freshly prepared dishes (access to your chatbot platform). This recurring revenue model provides stability and predictability to your business.
 
 ### Access Your Work
 
