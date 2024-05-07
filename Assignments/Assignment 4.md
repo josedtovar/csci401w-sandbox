@@ -52,13 +52,13 @@ Share simple examples of your product's functionality:
 - **Example 1:** Cybersecurity-focused user authentication.
   
 - A.) In this example a user entered their credentials.
-- ![Invalid-credentials-test](https://github.com/josedtovar/csci401w-sandbox/assets/157763327/2d3e82f6-58da-4b1c-8bef-fef5589d2c44)
 
 - B.) This is an example of someone attempting to access the /chats page when they are not logged in. Their authentication status is checked, and they are redirected to a Not found page.
-- ![Unidentified-User-Attempting-to-Access-Chatbot](https://github.com/josedtovar/csci401w-sandbox/assets/157763327/72d120b4-a5c3-4fbe-ab22-8dfd2dab89dc)
+
 
   
-- **Example 2:** Showcase how your cybersecurity-focused feature detects and alerts users about potentially harmful links.
+- **Example 2:** Coding-Tutor. The Chatbot is equipped with 'react-syntax-highlighter'. This highlights code blocks in Javascript style, making syntax easier to see for the user.
+- ![SmartLearnChat-Coding-Help](https://github.com/josedtovar/csci401w-sandbox/assets/157763327/107ee764-dbd2-46c1-a6b4-70cbc79011da)
 
 ### Technical Architecture Overview
 
