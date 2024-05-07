@@ -92,22 +92,30 @@ Giovani Torrico - Consistently meeting every week as well as when any of us need
 
 Aidan Lowther - Reaching out to the team before commits were made as well as sharing a screen while working collaboratively made the groupwork function more smoothly.
 
+Emily Cabral - 
+
 2. **Problem-Solving Abilities:** Share a situation where you had to troubleshoot a technical issue and how you approached the problem-solving process.
 
 Giovani Torrico - A technical issue I had early in development was getting all the pieces of the MERN stack working together correctly as well as issues with vscode and GitHub. I restarted the project multiple times due to things breaking and not being able to figure out how to fix them. I solved these problems by using online resources which explained how it is supposed to work.
 
 Aidan Lowther - Initially we planned on using Assistant API, due to a new version of it recently coming out most of the tutorials walking through its application were outdated and difficult to follow. For this reason we pivoted and decided to utilize the OpenAI API at the cost of some features. This allowed us to focus more on application security.
+
+Emily Cabral - 
    
-4. **Contributions to the Project:** Discuss a specific task you contributed to and how your involvement positively impacted the project's development.
+3. **Contributions to the Project:** Discuss a specific task you contributed to and how your involvement positively impacted the project's development.
 
-Giovani Torrico - I contributed to some initial setup for the MERN stack but mostly spent time on frontend development. I think my involvlment helped to add a dynamic and colorful UI which positively impacts the look of our project.
+Giovani Torrico - I contributed to some initial setup for the MERN stack but mostly spent time on frontend development. I think my involvement helped to add a dynamic and colorful UI which positively impacts the look of our project.
 
-Aidan Lowther – My biggest contribution came from my past experience utilizing machine learning, although Emily’s understanding of API’s proved to be the quintessential part of making out application functional.
+Aidan Lowther – My biggest contribution came from my past experience utilizing machine learning, although Emily’s understanding of API’s proved to be the quintessential part of making our application functional.
+
+Emily Cabral - 
   
 4. **Adaptability and Learning:** Provide an example of a challenge you faced that required learning a new skill or concept, and how you adapted to overcome it.
 
 Giovani Torrico - The entire process of building a fullstack application was new to me and so the entire concept had to be learned. I adapted to this by watching many vidoes on using MERN stack and how each part of the stack works together.
 
 Aidan Lowther – Learning how to correctly use Github was a hurdle for me that I think allowed me to grow and will benefit me in the near future.
+
+Emily Cabral - 
 
 ---
